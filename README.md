@@ -1,2 +1,1 @@
-# english-for-kids
-Rs school - task
+RSSTask_EnglishForKids
