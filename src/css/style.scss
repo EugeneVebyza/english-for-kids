@@ -1,0 +1,30 @@
+.hidden {
+  display: none;
+}
+
+.toolbar{
+max-width: 1440px;
+margin: auto;
+height: 100px;
+width: 100%;
+border-bottom:5px dashed black;
+display: flex;
+justify-content: space-between;
+}
+
+.card {
+width: 240px;
+height: 220px;
+background: red;
+margin: 30px;
+}
+
+.cards-container {
+max-width: 1440px;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 20px 15px;
+
+}
